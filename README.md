@@ -29,4 +29,5 @@ If any of the `assert` statements fail **with** `severity failure` then GHDL wil
 Assert statements of other severity levels, such as "error" w
 
 ## Waveform
-![Waveform](Waveform.png)
+![Waveform1](Waveform1.png)
+![Waveform2](Waveform2.png)
